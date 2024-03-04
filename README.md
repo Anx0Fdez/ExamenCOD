@@ -32,4 +32,3 @@ Sorprendentemente, descubrí que el archivo .gitignore no estaba incluido en el 
 ### Paso 8: Push y Creación de Release
 
 Finalmente, realicé el push de los cambios al repositorio remoto y creé una nueva release utilizando la etiqueta v1.0.
-
